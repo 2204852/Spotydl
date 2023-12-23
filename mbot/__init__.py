@@ -41,10 +41,10 @@ LOGGER = logging.getLogger(__name__)
 
 # Mandatory Variable
 try:
-    API_ID = int(environ['API_ID'])
-    API_HASH = environ['API_HASH']
-    BOT_TOKEN = environ['BOT_TOKEN']
-    OWNER_ID = int(environ['OWNER_ID'])
+    API_ID = int(environ['5009612'])
+    API_HASH = environ['999bf38a58a1332ed01591f0624b5768']
+    BOT_TOKEN = environ['6913598496:AAHaYHuITxByTa54hQ_grxGHmu_8Vx_22JM']
+    OWNER_ID = int(environ['943270135'])
 except KeyError:
     LOGGER.debug("One or More ENV variable not found.")
     sys.exit(1)
