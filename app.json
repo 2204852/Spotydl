@@ -6,9 +6,9 @@
     "music",
     "music downloader"
   ],
-  "repository": "https://github.com/masterolic/",
-  "website": "https://t.me/Spotify_downloa",
-  "success_url": "https://t.me/spotify_downloa_bot",
+  "repository": "https://github.com/2204852/Spotydl",
+  "website": "https://github.com/2204852/Spotydl",
+  "success_url": "https://github.com/2204852/Spotydl",
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID",
