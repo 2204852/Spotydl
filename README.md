@@ -76,7 +76,7 @@ python3 -m mbot
 
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/2204852/File-Store-Bot-With-Url-Shortner)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/2204852/Spotydl)
 
 
 
